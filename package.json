@@ -1,0 +1,26 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "exam kata",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlcallalle/kata.git"
+  },
+  "keywords": [
+    "javascript",
+    "tdd"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlcallalle/kata/issues"
+  },
+  "homepage": "https://github.com/jlcallalle/kata#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
